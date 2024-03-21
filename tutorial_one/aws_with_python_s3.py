@@ -6,8 +6,8 @@ import pandas as pd
 # Initialize a session using the Aws credentials
 
 session=boto3.Session(
-    aws_access_key_id='AKIAWZQJO4WOXT3S7FOQ',
-    aws_secret_access_key='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',
+    aws_access_key_id='x',
+    aws_secret_access_key='x',
     region_name='us-east-1'
 )
 
