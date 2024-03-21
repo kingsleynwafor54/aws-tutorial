@@ -3,7 +3,7 @@ import mysql.connector
 import pandas as pd
 
 # Configure connection parameters
-host = "db-mysql.cqpzvbd2ptik.eu-north-1.rds.amazonaws.com"
+host = "kk"
 port = 3306
 database = "ahmad_schema"
 username = "username"
